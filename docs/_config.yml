@@ -29,6 +29,22 @@ logo: "/images/Superb vector.png"
 twitter_username: _jenevans_
 github_username:  jenevans-ecoevo
 
+# Site Author
+author:
+  name: Jennifer Evans
+  picture: /images/jenny-evans-headshot.jpg
+  twitter: _jenevans_
+  links:
+    - title: Twitter
+      url: https://twitter.com/_jenevans_
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/jenevans-ecoevo
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://au.linkedin.com/in/jenny-evans-39b7a716b
+      icon: fab fa-linkedin
+
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
