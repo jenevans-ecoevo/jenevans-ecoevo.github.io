@@ -47,7 +47,16 @@ footer_links:
     url: https://au.linkedin.com/in/jenny-evans-39b7a716b
     icon: fab fa-linkedin
     
-
+# Front Matter Defaults
+defaults:
+  # Scicomm defaults
+  - scope:
+      path: "_scicomm"
+      type: scicomm
+    values:
+      layout: post
+      comments: true
+      share: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
