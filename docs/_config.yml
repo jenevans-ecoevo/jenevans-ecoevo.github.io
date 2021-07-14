@@ -21,8 +21,8 @@
 title: Jennifer Evans
 email: jennifer.evans@anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  adventures in ecology and evolution | currently studying the genomics of inbreeding depression 
-  and population decline in superb fairy-wrens at the Australian National University | science outreach and communication
+  adventures in ecology and evolution | genomics of inbreeding depression 
+  and population decline in superb fairy-wrens at ANU | science outreach and communication
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/Superb vector.png"
