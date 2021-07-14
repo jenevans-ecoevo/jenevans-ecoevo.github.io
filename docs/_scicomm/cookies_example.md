@@ -1,8 +1,8 @@
 ---
 title: "Chocolate Chip Cookies"
 image: 
-  path: /images/Superb vector.jpg
-  thumbnail: /images/Superb vector.jpg
+  path: /images/Superb vector.png
+  thumbnail: /images/Superb vector.png
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
