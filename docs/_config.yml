@@ -23,10 +23,11 @@ email: jennifer.evans@anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   adventures in ecology and evolution | currently studying the genomics of inbreeding depression 
   and population decline in superb fairy-wrens at the Australian National University | science outreach and communication
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jenevans-ecoevo.github.io/docs" # the subpath of your site, e.g. /blog
+url: "https://github.com/jenevans-ecoevo" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _jenevans_
 github_username:  jenevans-ecoevo
+
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
@@ -44,6 +45,8 @@ footer_links:
   - title: LinkedIn
     url: https://au.linkedin.com/in/jenny-evans-39b7a716b
     icon: fab fa-linkedin
+    
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
