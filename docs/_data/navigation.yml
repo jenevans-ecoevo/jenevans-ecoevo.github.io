@@ -2,10 +2,14 @@
 
 - title: Home
   url: /
-- title: Posts
-  url: /posts/
-- title: CV
+- title: About
+  url: /about/
+- title: Curriculum vitae
   url: /cv/
+- title: Outreach & Science communication
+  url: /scicomm/
+- title: Blog
+  url: /blogposts/
 # - title: Tags
 #   url: /tags/
 # - title: Recipes
