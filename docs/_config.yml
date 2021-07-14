@@ -44,7 +44,9 @@ author:
     - title: LinkedIn
       url: https://au.linkedin.com/in/jenny-evans-39b7a716b
       icon: fab fa-linkedin
-
+    - title: Email
+      url: mailto:jennifer.evans@anu.edu.au
+      icon: fas fa-envelope-square
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
@@ -62,6 +64,9 @@ footer_links:
   - title: LinkedIn
     url: https://au.linkedin.com/in/jenny-evans-39b7a716b
     icon: fab fa-linkedin
+  - title: Email
+    url: mailto:jennifer.evans@anu.edu.au
+    icon: fas fa-envelope-square
     
 # Collections
 collections:
