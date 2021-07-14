@@ -47,12 +47,29 @@ footer_links:
     url: https://au.linkedin.com/in/jenny-evans-39b7a716b
     icon: fab fa-linkedin
     
+# Collections
+collections:
+  scicomm:
+    output: true
+    permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/ 
+    
 # Front Matter Defaults
 defaults:
   # Scicomm defaults
   - scope:
       path: "_scicomm"
       type: scicomm
+    values:
+      layout: post
+      comments: true
+      share: true
+  # CV defaults
+  - scope:
+      path: "_cv"
+      type: cv
     values:
       layout: post
       comments: true
