@@ -6,10 +6,12 @@ collection: cv
 entries_layout: grid
 ---
 
-### Education
+## Education
 #### Undergraduate
+
 **Bachelor of Advanced Science (Honours - Class I)**
 **The University of Queensland, Australia**
+
 I completed my BAdvSc(Hons) majoring in Ecology in 2018. During my study I received multiple academic awards,
 Honours Class I and the School of Biological Sciences Honours prize for the top mark in my Honours cohort, and
 achieved a 6.97GPA overall. The courses undertaken in this degree included extensive genetic, bioinformatic and
@@ -21,9 +23,12 @@ My Honours was completed under the supervision of Associate Professor Cynthia Ri
 In my project, I assessed how environmental variation contributed to morphological variation of a goby species, 
 *Bathygobius cocosensis*, in the intertidal zone. 
 
+
 #### Postgraduate
+
 **PhD Candidate**
 **The Australian National University**
+
 I commenced study as a PhD candidate within the Division of Ecology &
 Evolution in February 2021. I will establish a framework for combining
 genomic and ecological datasets to assess the eco-evolutionary dynamics of
@@ -36,7 +41,8 @@ since the study began in 1988. Using high-resolution genomic data, I will test
 several possible explanations for the population decline, including inbreeding 
 depression, and parasitism.
 
-### Publications
+
+## Publications
 - Joshua A Thia, Katrina McGuigan, Libby Liggins, Will F Figueira, Christopher E Bird, Andrew Mather, Jennifer L
 Evans, & Cynthia Riginos (2021) Genetic and phenotypic variation exhibit both predictable and stochastic patterns
 across an intertidal fish metapopulation. Molecular Ecology, https://doi.org/10.1111/mec.15829.
@@ -45,18 +51,25 @@ of Bathygobius cocosensis (Perciformes, Gobiidae), Mitochondrial DNA Part B, 3:1
 - Jennifer L. Evans. 2018. Fine-scale phenotypic variation in a planktonic-dispersed intertidal fish with high gene flow
 (thesis). The University of Queensland.
 
-### Awards & Scholarships
+
+## Awards & Scholarships
+
 - School of Biological Sciences Honours prize, 2018
 - Dean's Commendation for Academic Excellence, numerous semesters 2015-2018
 - UQ Abroad Exchange Scholarships, 2016
 
-### Conferences and Presentations
+
+## Conferences and Presentations
+
 - Workshop on Ecological and Evolutionary Genomics, attended 2019
 - Ecological Society of Australia Conference, attended 2018
 
-### Employment
+
+## Employment
+
 **Research assistant, Walter-Furlong Lab**
 *2018-2020*
+
 I worked as a part-time research assistant in the Walter-Furlong Lab in UQ’s School of Biological Sciences,
 managing a project investigating the use of novel herbicides on several Weeds of National Significance. This project
 primarily involved the germination and maintenance of seedlings, and design and management of experiments in
@@ -66,6 +79,7 @@ biosecurity and agricultural problems.
 
 **Science Engagement Assistant & Science Ambassador, UQ**
 *2017-2020*
+
 I was previously employed by UQ’s Faculty of Science to assist in various outreach events, bringing my passion for
 biology to events targeted at both future scientists and the general public. Since late 2018, this had included
 developing and delivering biology workshops for the new Queensland Senior Syllabus to both high school teachers
@@ -73,13 +87,16 @@ and students, covering Statistics, Ecology and Genetics content in both in-perso
 
 **Academic Administration Officer, UQ**
 *2019-2020*
+
 I was previously employed part-time within UQ’s Faculty of Science as an administrative assistant and project
 officer of a curriculum mapping project. This involved collaborating with learning designers, software developers,
 and multiple program coordinators across a range of scientific disciplines, to rationalize and improve course
 delivery across UQ’s Science programs.
 
-### Volunteering and experience
+
+## Volunteering and experience
 - UQ Science Mentor & Tutor, *2016-2019*
 - Fieldwork volunteer, Bush Heritage Australia through iROOS at UQ, *2017-2018*
 - Volunteer Supervisor, World Science Festival Brisbane, *2018-2019*
 - Sub-executive for UQ's Women in Science Association, *2017-2018*
+
