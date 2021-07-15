@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and population decline in superb fairy-wrens at ANU | science outreach and communication
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/images/Superb vector.png"
+logo: "/images/Wren_screengrab.jpg"
 twitter_username: _jenevans_
 github_username:  jenevans-ecoevo
 
