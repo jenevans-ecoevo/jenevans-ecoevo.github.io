@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-image:
-  path: /images/carnarvon_sunrise.jpg
+page.image: /images/carnarvon_sunrise.jpg
 permalink: /about/
 ---
 
