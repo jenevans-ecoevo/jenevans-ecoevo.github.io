@@ -9,7 +9,7 @@ entries_layout: grid
 ## Education
 #### Undergraduate
 
-**Bachelor of Advanced Science (Honours - Class I)**
+**Bachelor of Advanced Science (Honours - Class I),**
 **The University of Queensland, Australia**
 
 I completed my BAdvSc(Hons) majoring in Ecology in 2018. During my study I received multiple academic awards,
@@ -26,7 +26,7 @@ In my project, I assessed how environmental variation contributed to morphologic
 
 #### Postgraduate
 
-**PhD Candidate**
+**PhD Candidate,**
 **The Australian National University**
 
 I commenced study as a PhD candidate within the Division of Ecology &
