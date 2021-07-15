@@ -67,14 +67,9 @@ of Bathygobius cocosensis (Perciformes, Gobiidae), Mitochondrial DNA Part B, 3:1
 
 ## Employment
 
-**Research assistant, Walter-Furlong Lab**
-*2018-2020*
-
-**Science Engagement Assistant & Science Ambassador, UQ**
-*2017-2020*
-
-**Academic Administration Officer, UQ**
-*2019-2020*
+- **Research assistant, Walter-Furlong Lab** *2018-2020*
+- **Science Engagement Assistant & Science Ambassador, UQ** *2017-2020*
+- **Academic Administration Officer, UQ** *2019-2020*
 
 
 ## Volunteering and experience
