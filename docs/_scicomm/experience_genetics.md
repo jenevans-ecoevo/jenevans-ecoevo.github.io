@@ -1,8 +1,8 @@
 ---
 title: "Experience Genetics - UQ"
 image: 
-  path: /images/marine_light_square.jpg
-  thumbnail: /images/pipetting_robin.jpg
+  path: /images/pipetting_robin.jpg
+  thumbnail: /images/marine_light_square.jpg
   caption: "Pictured: two tutors in purple lab coats and gloves, preparing to pipette."
 ---
 
