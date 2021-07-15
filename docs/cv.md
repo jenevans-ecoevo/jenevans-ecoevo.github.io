@@ -70,28 +70,11 @@ of Bathygobius cocosensis (Perciformes, Gobiidae), Mitochondrial DNA Part B, 3:1
 **Research assistant, Walter-Furlong Lab**
 *2018-2020*
 
-I worked as a part-time research assistant in the Walter-Furlong Lab in UQ’s School of Biological Sciences,
-managing a project investigating the use of novel herbicides on several Weeds of National Significance. This project
-primarily involved the germination and maintenance of seedlings, and design and management of experiments in
-PC2 greenhouse facilities. Within this role, I have also had the opportunity to develop molecular laboratory skills,
-including DNA extractions and sequencing, as part of Dr James Hereward’s work applying genomic tools to
-biosecurity and agricultural problems.
-
 **Science Engagement Assistant & Science Ambassador, UQ**
 *2017-2020*
 
-I was previously employed by UQ’s Faculty of Science to assist in various outreach events, bringing my passion for
-biology to events targeted at both future scientists and the general public. Since late 2018, this had included
-developing and delivering biology workshops for the new Queensland Senior Syllabus to both high school teachers
-and students, covering Statistics, Ecology and Genetics content in both in-person and online formats.
-
 **Academic Administration Officer, UQ**
 *2019-2020*
-
-I was previously employed part-time within UQ’s Faculty of Science as an administrative assistant and project
-officer of a curriculum mapping project. This involved collaborating with learning designers, software developers,
-and multiple program coordinators across a range of scientific disciplines, to rationalize and improve course
-delivery across UQ’s Science programs.
 
 
 ## Volunteering and experience
@@ -99,4 +82,3 @@ delivery across UQ’s Science programs.
 - Fieldwork volunteer, Bush Heritage Australia through iROOS at UQ, *2017-2018*
 - Volunteer Supervisor, World Science Festival Brisbane, *2018-2019*
 - Sub-executive for UQ's Women in Science Association, *2017-2018*
-
