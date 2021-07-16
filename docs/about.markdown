@@ -3,11 +3,11 @@ layout: page
 title: About
 image: 
   path: /images/carnarvon_sunrise.jpg
-  caption: Bush Heritage Australia's Carnarvon Station
+  caption: Pictured: Sunrise at Bush Heritage Australia's Carnarvon Station
 permalink: /about/
 ---
 
-My research interests primarily lie in the application of population genetic and genomic approaches to understanding the eco-evolutionary biology of wild populations - currently, my PhD research is focused on the genomics of inbreeding depression and population decline in a long-term study of superb fairy-wrens, *Malurus cyaneus*. I have previously worked across many different systems, including intertidal fish, weed species such as rubbervine and parthenium, and monitoring of pest and native animals in central Queensland; I am more motivated by approaches than by a particular study system. There are so many interesting species!
+My research interests primarily lie in the application of population and quantitative genomic approaches to understanding the eco-evolutionary biology of wild populations - currently, my PhD research is focused on the genomics of inbreeding depression and population decline in a long-term study of superb fairy-wrens, *Malurus cyaneus*. I have previously worked across many different systems, including intertidal fish, weed species such as rubbervine and parthenium, and monitoring of pest and native animals in central Queensland; I am more motivated by approaches than by a particular study system. There are so many interesting species!
 
 I also love sharing the wonder of science and biodiversity, and have been fortunate to be involved in developing and delivering ecology, statistics and genetic workshops for both high school teachers and students - check out my [Outreach and Science Communication page](https://jenevans-ecoevo.github.io/scicomm/) for some highlights.  
 
