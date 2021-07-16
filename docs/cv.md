@@ -12,16 +12,15 @@ entries_layout: grid
 **Bachelor of Advanced Science (Honours - Class I),**
 **The University of Queensland, Australia**
 
-I completed my BAdvSc(Hons) majoring in Ecology in 2018. During my study I received multiple academic awards,
-Honours Class I and the School of Biological Sciences Honours prize for the top mark in my Honours cohort, and
-achieved a 6.97GPA overall. The courses undertaken in this degree included extensive genetic, bioinformatic and
+I completed my BAdvSc(Hons) majoring in Ecology in 2018. The courses undertaken in this degree included extensive genetic, bioinformatic and
 evolutionary biology content.
-During my second year in 2016, I received a scholarship for UQ’s Study Abroad program, and spent a semester at
-The University of Edinburgh, Scotland, where I extended my interest in ecological and evolutionary genetics.
 
 My Honours was completed under the supervision of Associate Professor Cynthia Riginos and Dr Katrina McGuigan. 
 In my project, I assessed how environmental variation contributed to morphological variation of a goby species, 
 *Bathygobius cocosensis*, in the intertidal zone. 
+
+**Semester Abroad,*
+**The University of Edinburgh, United Kingdom**
 
 
 #### Postgraduate
