@@ -11,13 +11,12 @@ entries_layout: grid
 
 **Bachelor of Advanced Science (Honours - Class I),**
 **The University of Queensland, Australia**
-{: .notice}
-
 I completed my BAdvSc(Hons) majoring in Ecology in 2018. The courses undertaken in this degree included extensive genetic, bioinformatic and
 evolutionary biology content.
 My Honours was completed under the supervision of Associate Professor Cynthia Riginos and Dr Katrina McGuigan. 
 In my project, I assessed how environmental variation contributed to morphological variation of a goby species, 
-*Bathygobius cocosensis*, in the intertidal zone. 
+*Bathygobius cocosensis*, in the intertidal zone.
+{: .notice}
 
 **Semester Abroad,**
 **The University of Edinburgh, United Kingdom**
@@ -28,8 +27,6 @@ In my project, I assessed how environmental variation contributed to morphologic
 
 **PhD Candidate,**
 **The Australian National University**
-{: .notice}
-
 I commenced study as a PhD candidate within the Division of Ecology &
 Evolution in February 2021. I will establish a framework for combining
 genomic and ecological datasets to assess the eco-evolutionary dynamics of
@@ -40,7 +37,8 @@ south-east Australia. The population is one of the most comprehensive wild
 pedigree studies in the world. Alarmingly, the population has almost halved 
 since the study began in 1988. Using high-resolution genomic data, I will test 
 several possible explanations for the population decline, including inbreeding 
-depression, and parasitism.{: .notice}
+depression, and parasitism.
+{: .notice}
 
 
 ## Publications
