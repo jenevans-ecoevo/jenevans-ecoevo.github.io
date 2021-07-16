@@ -19,7 +19,7 @@ My Honours was completed under the supervision of Associate Professor Cynthia Ri
 In my project, I assessed how environmental variation contributed to morphological variation of a goby species, 
 *Bathygobius cocosensis*, in the intertidal zone. 
 
-**Semester Abroad,*
+**Semester Abroad,**
 **The University of Edinburgh, United Kingdom**
 
 
