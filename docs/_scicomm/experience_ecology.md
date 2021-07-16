@@ -3,7 +3,7 @@ title: "Experience Ecology - UQ"
 image: 
   path: /images/experience_ecology2.jpg
   thumbnail: /images/experience_ecology1.jpg
-  caption: "Pictured: tutors sitting in a circle with legs in the middle. All are wearing colourful fun socks. "
+  caption: "Pictured: science sock day for the tutors at Experience Ecology."
 ---
 
 This one-day workshop introduces Year 11 students to the world of ecology, experimental design and statistics. 
