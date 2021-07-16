@@ -7,7 +7,7 @@ entries_layout: grid
 ---
 
 ## Education
-#### Undergraduate
+### Undergraduate
 
 **Bachelor of Advanced Science (Honours - Class I),**
 **The University of Queensland, Australia**
@@ -23,7 +23,7 @@ In my project, I assessed how environmental variation contributed to morphologic
 **The University of Edinburgh, United Kingdom**
 
 
-#### Postgraduate
+### Postgraduate
 
 **PhD Candidate,**
 **The Australian National University**
