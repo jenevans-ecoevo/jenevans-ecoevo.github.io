@@ -1,10 +1,8 @@
 ---
 layout: page
 ---
-Homepage content
 
-![image-left]({{ '/images/headshot_square.jpg' | absolute_url }}){: .align-left} 
-## Jennifer Evans
+![image-left]({{ '/images/headshot_small.jpg'}}){: .align-left} ## Jennifer Evans
 
 ### Eco-evolutionary biologist
 
