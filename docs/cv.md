@@ -2,7 +2,6 @@
 title: Curriculum vitae
 layout: page
 permalink: /cv/
-image: 
 ---
 
 ## Education
