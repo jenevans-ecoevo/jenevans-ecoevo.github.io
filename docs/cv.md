@@ -1,9 +1,8 @@
 ---
 title: Curriculum vitae
-layout: collection
+layout: page
 permalink: /cv/
-collection: cv
-entries_layout: grid
+image: 
 ---
 
 ## Education
@@ -13,7 +12,7 @@ entries_layout: grid
 **The University of Queensland, Australia**
 I completed my BAdvSc(Hons) majoring in Ecology in 2018. The courses undertaken in this degree included extensive genetic, bioinformatic and
 evolutionary biology content.
-My Honours was completed under the supervision of Associate Professor Cynthia Riginos and Dr Katrina McGuigan. 
+My Honours was completed under the supervision of Dr Katrina McGuigan and Associate Professor Cynthia Riginos. 
 In my project, I assessed how environmental variation contributed to morphological variation of a goby species, 
 *Bathygobius cocosensis*, in the intertidal zone.
 {: .notice}
