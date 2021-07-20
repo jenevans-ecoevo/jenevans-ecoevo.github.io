@@ -4,10 +4,9 @@ layout: page
 
 ![image-left]({{ '/images/headshot_small.jpg'}}){: .align-left} 
 
-## Jennifer Evans
-### Eco-evolutionary biologist
-- **Bachelor of Advanced Science (Honours - Class I), University of Queensland**
-- **PhD Candidate, Australian National University**
+### Eco-evolutionary biology and conservation genomics
+**PhD Candidate, Australian National University**
+**Bachelor of Advanced Science (Honours - Class I), University of Queensland**
 
 My research interests primarily lie in the application of population and quantitative genomic approaches to understanding the eco-evolutionary biology of wild populations, particularly in conservation or applied contexts. 
 
