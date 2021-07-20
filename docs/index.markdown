@@ -9,8 +9,10 @@ layout: page
 - **Bachelor of Advanced Science (Honours - Class I), University of Queensland**
 - **PhD Candidate, Australian National University**
 
-My research uses quantitative and population genomics to better understand population dynamics and ecological interactions, underlying conservation issues and population declines. 
+My research interests primarily lie in the application of population and quantitative genomic approaches to understanding the eco-evolutionary biology of wild populations, particularly in conservation or applied contexts. 
 
-Currently, I am undertaking my PhD at the Australian National University, studying a long-term study of superb fairy-wrens, *Malurus cyaneus*. The population has more than halved in the thirty years since the study began. In my PhD project, I will combine ecological and genomic data to test several key processes contributing to the severe decline of the population, including inbreeding depression, blood parasitism and other evolutionary dynamics.  
+My PhD research is currently focused on the genomics of inbreeding depression and population decline in a long-term study of superb fairy-wrens, *Malurus cyaneus*. In the thirty years since the study was first founded, the population has nearly halved, alongside a decline in the number of breeding pairs. I will be testing several explanations for the decline, including inbreeding depression, parasitism and various eco-evolutionary dynamics. 
+
+Want to learn more about the long-term study of our superb fairy-wren population? Follow the [project twitter](https://twitter.com/fairywrens_anu?lang=en)!
 
 
